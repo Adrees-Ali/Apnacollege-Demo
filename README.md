@@ -1,4 +1,4 @@
 # Apnacollege-Demo
 This is my first git Repository.
 <br>
-Author- Adrees Ali
+Author- Adrees (ali)
